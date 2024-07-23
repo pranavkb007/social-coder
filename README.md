@@ -12,7 +12,7 @@ This repository contains the source code for a personal portfolio website create
 
 ## Usage
 
-You can view the live website at https://pranavkb007.github.io/portfolio-template/
+You can view the live website at [https://pranavkb007.github.io/portfolio-template/](https://surajshirale1207.github.io/social-coder/)
 
 ## Overview
 
@@ -33,7 +33,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
 
-            - git clone https://github.com/pranavkb007/portfolio-template
+            - git clone https://github.com/surajshirale1207/social-coder
 
 3. **Navigate to the project directory:**
       
