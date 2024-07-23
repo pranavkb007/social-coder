@@ -37,7 +37,7 @@ To set up the project locally, follow these steps:
 
 3. **Navigate to the project directory:**
       
-            - cd portfolio-website
+            - cd social-coder
 
 4. **Open index.html in your preferred browser to view the website.**
 
