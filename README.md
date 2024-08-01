@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This repository contains the source code for a personal portfolio website created using the DevFolio Bootstrap template from (https://bootstrapmade.com).
+
 
 ## Table of Contents
 
@@ -13,11 +13,6 @@ This repository contains the source code for a personal portfolio website create
 ## Usage
 
 You can view the live website at (https://surajshirale1207.github.io/social-coder/)
-
-## Overview
-
-This is a responsive personal portfolio website showcasing my skills, projects, and contact information.
-The website is created using the DevFolio Bootstrap template from BootstrapMade.
 
 ## Features
 
